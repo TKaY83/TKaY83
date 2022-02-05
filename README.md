@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TuncayDagdelen
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Html Css JavaScript 
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
